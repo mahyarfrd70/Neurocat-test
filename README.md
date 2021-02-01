@@ -1,12 +1,22 @@
 # Neurocat Test
 
+## Folder Structure
+
+There are folders and files in the src folder of root project as below :
+
+1. **components**: I put react reusable components in this folder.
+2. **containers**: I put main app file or routing file , which it doesn't have, in the root of this folder. we also put pages folder in this directory.
+3. **globalStyles**: I put some global style and more important css variables in this directory.
+
+NOTE: There are also **.test.tsx** files in each folder.
+
 ## What I use
 
-        - React.
-        - Typescript.
-        - Styled-components.
-        - Jest
-        - React-testing-library
+* React
+* Typescript
+* Styled-components
+* Jest
+* React-testing-library
 
 NOTE: I also customized the webpack of create-react-app with react-app-rewired to define absolute paths.
 
