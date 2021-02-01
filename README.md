@@ -2,11 +2,11 @@
 
 ## What I use
 
-        - React.
-        - Typescript.
-        - Styled-components.
-        - Jest
-        - React-testing-library
+* React
+* Typescript
+* Styled-components
+* Jest
+* React-testing-library
 
 NOTE: I also customized the webpack of create-react-app with react-app-rewired to define absolute paths.
 
