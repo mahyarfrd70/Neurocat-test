@@ -1,5 +1,15 @@
 # Neurocat Test
 
+## Folder Structur
+
+There are folders and files in the Src folder of root project as below :
+
+1. **components**: I put react reusable components in this folder.
+2. **containers**: I put main app file or routing file , which it doesn't have, in the root of this folder. we also put pages folder in this directory.
+3. **globalStyles**: I put some global style and more important css variables in this directory.
+
+NOTE: There are also **.test.tsx** files in each folder.
+
 ## What I use
 
 * React
